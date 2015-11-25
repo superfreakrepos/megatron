@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.fistsofury" name="[COLOR white]Fists-O-Fury[/COLOR]" version="1.0.3" provider-name="[COLOR purple]Megatron[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Fists-O-Fury</summary>
+    <description lang="en">Easy to install and easy to clean up ![CR][CR]Thanks [COLOR red]@4yoursak[/COLOR] for graphics [CR][CR]and [COLOR red].[/COLOR][COLOR white]N[/COLOR][COLOR blue]O[/COLOR][COLOR red]R[/COLOR][COLOR white]A[/COLOR][COLOR blue]D[/COLOR][COLOR red].[/COLOR] for support</description>
+    <disclaimer>[COLOR yellow]Version 1.0.3 does not have finished WIPE feature[/COLOR]</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>

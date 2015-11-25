@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.emudownload" name="[COLOR white]EMU Download[/COLOR]" version="1.0.3" provider-name="[COLOR purple]Megatron[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">EMU Download</summary>
+    <description lang="en">Download the best Emulators for Android![CR][CR]Thanks [COLOR orange]@Mikey1234[/COLOR] and [COLOR red]@4yoursak[/COLOR]</description>
+    <disclaimer lang="en">[B]For Android devices only[/B]</disclaimer>
+    <email>apkdownload@mega-tron.tv</email>
+    <platform>android</platform>
+  </extension>
+</addon>

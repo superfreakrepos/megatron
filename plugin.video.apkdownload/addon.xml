@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.apkdownload" name="[COLOR white]APK Download[/COLOR]" version="1.0.11" provider-name="[COLOR purple]Megatron[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">APK Download</summary>
+    <description lang="en">Download the best Android applications![CR][CR]Thanks [COLOR orange]@Mikey1234[/COLOR] and [COLOR red]@4yoursak[/COLOR]</description>
+    <disclaimer lang="en">[B]For Android devices only[/B]</disclaimer>
+    <email>apkdownload@mega-tron.tv</email>
+    <platform>android</platform>
+  </extension>
+</addon>
