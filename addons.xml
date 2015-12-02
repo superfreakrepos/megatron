@@ -316,4 +316,17 @@
 		<source></source>
 	</extension>
 </addon>
+<addon id="plugin.video.oculus" name="[COLOR red]OCULUS[/COLOR]" version="1.0.1" provider-name="[COLOR red]4YOURSAKE[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR red]Step into a new Kodi[/COLOR]</summary>
+    <description lang="en">[COLOR red]Step into a new Kodi[/COLOR]</description>
+    <platform>all</platform>
+  </extension>
+</addon>
 </addons>
