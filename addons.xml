@@ -341,5 +341,15 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+<addon id="resource.uisounds.star.wars.confluence" version="1.0" name="Star Wars Confluence Sounds" provider-name="Megatron">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Star Wars Confluence Sounds</summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
+</addon>
 </addons>
-
