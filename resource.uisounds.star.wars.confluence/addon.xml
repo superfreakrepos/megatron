@@ -1,14 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.megatron" name="[COLOR purple]Megatron Repo[/COLOR]" version="1.0.2" provider-name="[COLOR purple]Megatron[/COLOR]">
-	<extension point="xbmc.addon.repository" name="[COLOR purple]Megatron Repo[/COLOR]">
-		<info compressed="false">https://raw.githubusercontent.com/superfreakrepos/megatron/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/superfreakrepos/megatron/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/superfreakrepos/megatron/master/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Transform your TV</summary>
-		<description></description>
-		<platform>all</platform>
-	</extension>
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="resource.uisounds.star.wars.confluence" version="1.0" name="Star Wars Confluence Sounds" provider-name="[COLOR purple]Megatron[/COLOR]">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0"/>
+  </requires>
+  <extension point="kodi.resource.uisounds"/>
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">Star Wars Confluence Sounds</summary>
+    <description lang="en"></description>
+    <platform>all</platform>
+  </extension>
 </addon>
-
