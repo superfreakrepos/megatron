@@ -316,7 +316,7 @@
 		<source></source>
 	</extension>
 </addon>
-<addon id="resource.uisounds.star.wars" version="1.0.2" name="Star Wars Sounds" provider-name="[COLOR purple]Megatron[/COLOR] and [COLOR lightblue]H24[/COLOR]">
+<addon id="resource.uisounds.star.wars" version="1.0.3" name="Star Wars Sounds" provider-name="[COLOR purple]Megatron[/COLOR] and [COLOR lightblue]H24[/COLOR]">
   <requires>
     <import addon="kodi.resource" version="1.0.0"/>
   </requires>
