@@ -318,7 +318,7 @@
 </addon>
 <addon
   id="skin.star.wars"
-  version="1.0.4"
+  version="1.0.5"
   name="Aeon Nox 5: Star Wars"
   provider-name="Created by BigNoid | Modded by SilVO | Themed by H24 | Tweaked by Megatron">
 	<requires>
