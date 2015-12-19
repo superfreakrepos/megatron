@@ -397,7 +397,7 @@
 	</extension>
   <extension point="xbmc.service" library="service.py" start="login" />
 </addon>
-<addon id="resource.uisounds.star.wars" version="1.0.4" name="Star Wars Sounds" provider-name="[COLOR purple]Megatron[/COLOR] and [COLOR lightblue]H24[/COLOR]">
+<addon id="resource.uisounds.star.wars" version="1.0.5" name="Star Wars Sounds" provider-name="[COLOR purple]Megatron[/COLOR] and [COLOR lightblue]H24[/COLOR]">
   <requires>
     <import addon="kodi.resource" version="1.0.0"/>
   </requires>
