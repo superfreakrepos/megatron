@@ -8,7 +8,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Fists-O-Fury</summary>
-    <description lang="en">Easy to install and easy to clean up ![CR][CR]Thanks [COLOR red]@4yoursak[/COLOR] for graphics and [COLOR red].[/COLOR][COLOR white]N[/COLOR][COLOR blue]O[/COLOR][COLOR red]R[/COLOR][COLOR white]A[/COLOR][COLOR blue]D[/COLOR][COLOR red].[/COLOR] for support</description>
+    <description lang="en">Easy to install and easy to clean up ![CR][CR]Big thanks to developers of the repos/addons included[CR][CR]Thanks [COLOR red]@4yoursak[/COLOR] for graphics and [COLOR red].[/COLOR][COLOR white]N[/COLOR][COLOR blue]O[/COLOR][COLOR red]R[/COLOR][COLOR white]A[/COLOR][COLOR blue]D[/COLOR][COLOR red].[/COLOR] for support</description>
     <disclaimer>[COLOR yellow]Version 1.0.4 does not have finished WIPE feature[/COLOR]</disclaimer>
     <platform>all</platform>
   </extension>
