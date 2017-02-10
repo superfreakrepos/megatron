@@ -1,5 +1,2 @@
-[B]Version 1.0.1[/B]
+[B]Version 1.0.0[/B]
 - Initial release
-
-[B]Version 0.0.1[/B]
-- Beta testing
