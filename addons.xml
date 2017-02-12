@@ -21,7 +21,7 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Fists-O-Fury</summary>
     <description lang="en">Easy to install and easy to clean up ![CR][CR]Big thanks to developers of the repos/addons included[CR][CR]Thanks [COLOR red]@4yoursak[/COLOR] for graphics</description>
-    <disclaimer>[COLOR yellow]Version 1.1 does not have finished WIPE feature[/COLOR]</disclaimer>
+    <disclaimer>[COLOR yellow]Wipe feature may cause recent unsaved Kodi changes to be lost[/COLOR]</disclaimer>
     <platform>all</platform>
 		<assets>
 			<icon>resources/icon.png</icon>
